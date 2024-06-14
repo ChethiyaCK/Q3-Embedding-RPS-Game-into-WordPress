@@ -1,1 +1,2 @@
-# Q3-Embedding-RPS-Game-into-WordPress
+Embedding-RPS-Game-into-WordPress
+
