@@ -3,7 +3,9 @@ Embedding-RPS-Game-into-WordPress
 steps 
 
 1.Since we had this exercise in the lecture, first step was upload the document files (HTML, CSS and JavaScript). 
-2.
+2.Create HTML file with relevant changes. 
+3.Make color changings, sizes and text alings in a clear and easy manner. 
+4.Create teh JavaDcript with relevant codes. 
 
 Challenges
 
