@@ -1,0 +1,24 @@
+body {
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 20px;
+    border: 10px solid red;
+    width: 20%;
+    text-align: center;
+}
+
+.instruction {
+    font-size: 60%;
+    text-align: left;
+}
+
+
+.circle {
+    color: white;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 5px 20px;
+    font-size: 65%;
+    cursor: pointer;
+}
